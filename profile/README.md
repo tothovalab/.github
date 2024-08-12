@@ -4,4 +4,4 @@ We are a group of physicians and scientists who are passionate about tackling im
 
 This github includes analyses and pipelines developed by the computational biologists in the lab
 
-🧙 [Markdown]([https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://tothovalab.dana-farber.org/))
+[Tothova Lab at Dana-Farber](https://tothovalab.dana-farber.org/)
