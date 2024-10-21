@@ -1,3 +1,0 @@
-# .github
-
-Housekeeping repo
